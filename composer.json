@@ -1,8 +1,8 @@
 {
-    "name": "stavarengo/php-sigep",
+    "name": "rorteg/php-sigep",
     "version": "0.0.1",
     "type": "library",
-    "description": "Integração com Web Service do Correios. Gera etiquetas, consulta preços e prazos, imprime etiquetas e PLP, etc.",
+    "description": "Integração com Web Service do Correios. Gera etiquetas, consulta preços e prazos, imprime etiquetas e PLP, etc. (Adaptações para uso em Magento 2)",
     "keywords": ["correios", "sigep"],
     "extra": {
         "branch-alias": {
